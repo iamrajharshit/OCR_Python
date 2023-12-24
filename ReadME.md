@@ -24,7 +24,7 @@ Once Installed set up the path under environmental variable.
 
 In cmd check `tesseract —version`
 
-![Untitled](img7/Untitled.png)
+![Untitled](img/Untitled.png)
 
 Now install pytesseract `pip install pytesseract` in your venv.
 
