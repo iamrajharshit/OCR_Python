@@ -24,11 +24,11 @@ Once Installed set up the path under environmental variable.
 
 In cmd check `tesseract —version`
 
-![Untitled](OCR%20527e033b7a4a45398fa9bf118c6be497/Untitled.png)
+![Untitled](img7/Untitled.png)
 
 Now install pytesseract `pip install pytesseract` in your venv.
 
-![Untitled](OCR%20527e033b7a4a45398fa9bf118c6be497/Untitled%201.png)
+![Untitled](img/Untitled%201.png)
 
 Once all setup import libs
 
@@ -45,7 +45,7 @@ import pytesseract
 - we need to convert pdf into images
 - image into ocr raw text output
 
-![Untitled](OCR%20527e033b7a4a45398fa9bf118c6be497/Untitled%202.png)
+![Untitled](img/Untitled%202.png)
 
 ```jsx
 from PIL import Image
