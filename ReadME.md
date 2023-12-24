@@ -2,15 +2,15 @@
 
 # Libraries
 
-## installing PILLOW
+#### installing PILLOW
 
 `pip install pillow`
 
-## installing cv2
+#### installing cv2
 
 `pip install opencv-python`
 
-## installing tessaract
+#### installing tessaract
 
 Before `pip install pytesseract`
 
